@@ -305,7 +305,7 @@ public with sharing class StringUtility {
         @InvocableVariable(label='String Parameter' required=false) public String stringParameter;
         @InvocableVariable(label='String Parameter 2' required=false) public String stringParameter2;
         @InvocableVariable(label='Integer Parameter' required=false) public Integer integerParameter;
-        @InvocableVariable(label='Integer Parameter' required=false) public Integer integerParameter2;
+        @InvocableVariable(label='Integer Parameter 2' required=false) public Integer integerParameter2;
         @InvocableVariable(label='Date Parameter' required=false) public Date dateParameter;
         @InvocableVariable(label='DateTime Parameter' required=false) public DateTime dateTimeParameter;
         @InvocableVariable(label='Decimal Parameter' required=false) public Decimal decimalParameter;
